@@ -1,0 +1,5 @@
+AUTHORIZED_PLATES = {
+    "34CSV725",
+    "35ADA725",
+    "16BJK1903"
+}
